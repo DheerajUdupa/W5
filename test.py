@@ -1,0 +1,5 @@
+testDict = {"un": 1, "deux": 2, "trois": 3}
+
+for key in testDict:
+    print(f"{key}-->{testDict[key]}")
+    
